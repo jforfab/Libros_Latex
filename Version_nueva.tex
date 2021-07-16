@@ -1874,7 +1874,7 @@ y del caso anterior se tiene que $ y=\sqrt{25-x^{2}} $.\\
 	
 	\item[(Respuesta-b)]
 	\[ y=\left(\dfrac{x+1}{\sen x}\right)\cdot\exp x \]
-	\[ y'=(\left(\dfrac{x+1}{\sen x}\right)\cdot\exp x)' \]
+	\[ y'=\left (\left(\dfrac{x+1}{\sen x}\right)\cdot\exp x\right )' \]
 	Si se quiere calcular la derivada hay que percatarse de que hay un cociente, una suma y un producto de funciones.\\
 	Aplicacndo la propiedad de la derivada del producto
 	\[ y'=\left(\dfrac{x+1}{\sen x}\right)'\cdot\exp x+\left(\dfrac{x+1}{\sen x}\right)\cdot(\exp x)' \]
@@ -1920,14 +1920,14 @@ Lo primero es identificar el tipo de función con el que se está trabajando,
 la cual, está escrita en forma implícita, pero para tener mayor organización se va a llevar a la forma $ F(x,y)=0 $.
 \[ x^{2}y^{2}-(y+1)^{2}(4-y^{2})=0 \]
 ¿El punto $ (x,y)=(0,-2) $ pertenece a la curva?
-\[ F(0,-2)=0^{2}\cdot(-2)^{2}-(-2+1)^{2}(4-(-2)^{2})=0????????? \]
-Esta comprobación queda propuesta.\\
+\[ F(0,-2)=0^{2}\cdot(-2)^{2}-(-2+1)^{2}(4-(-2)^{2})=0 \]
+Esta comprobación lo dice todo.\\
 Calculando sus derivadas parciales
 \[ \dfrac{\partial F}{\partial x}=2xy^{2} \]
 \[ \dfrac{\partial F}{\partial y}=2x^{2}y-[2(y+1)(4-y^{2})+(y+1)^{2}(-2y)] \]
 Según el teorema de la función implícita, la pendiente de la recta que pasa por el punto se calcula:\\
 \[ m=- \dfrac{2xy^{2}}{2x^{2}y-[2(y+1)(4-y^{2})+(y+1)^{2}(-2y)]}\Bigg|_{(0,-2)}=0\]
-**Percatarse de que  $ 2x^{2}y-[2(y+1)(4-y^{2})+(y+1)^{2}(-2y)]\Bigg|_{(0,-2)}\neq0 $, en caso contrario no se puede aplicar el teorema.
+**\textbf{Percatarse de que}  $ 2x^{2}y-[2(y+1)(4-y^{2})+(y+1)^{2}(-2y)]\Bigg|_{(0,-2)}\neq0 $, en caso contrario no se puede aplicar el teorema.
 \[ y=mx+n \]
 \[ -2=0\cdot0+n \]
 \[ n=-2 \]
@@ -1948,7 +1948,7 @@ La recta buscada es $ y=-2 $.
 		\item[(a)]	$ \begin{cases}
 		x=\dfrac{1}{t}\\
 		y=\dfrac{1}{t+1}
-		\end{cases} $
+		\end{cases} $ $ t\in \mathbb{R} $
 		\item[(b)]	$ f(x)=\left (\dfrac{2x}{1-x^{2}},\dfrac{x^{2}}{1-x}\right  ) $
 
 	\end{enumerate}
@@ -1959,15 +1959,15 @@ La recta buscada es $ y=-2 $.
 		\item[(a)]	$ \begin{cases}
 			x=t^{3}+3t+1\\
 			y=t^{3}-3t+1
-		\end{cases} $
+		\end{cases} $ $ t\in \mathbb{R} $
 		\item[(b)]$ \begin{cases}
 			x=te^{t}\\
 			y=te^{-t}
-			\end{cases} $
+			\end{cases} $ $ t\in \mathbb{R} $
 		\item[(c)]$ \begin{cases}
 			x=t^{3}-3\pi\\
 			y=t^{3}-6\arctan t
-			\end{cases} $
+			\end{cases} $ $ t\in \mathbb{R} $
 	\end{enumerate}
 	\begin{enumerate}
 		\item[2.1]	Calcular su derivada.
@@ -1982,7 +1982,7 @@ La recta buscada es $ y=-2 $.
 	$ t\in\mathbb{R} $\\
 	Calcular su derivada en $ t=1 $.
 	
-	\item	La curva con ecuación $ y^{2}=x^{3}+3x^{2} $ se llama cúbica de Tscher,hausen. Encuentre una ecuación de la recta tangente a esta en $ (1,-2) $. ¿En cuáles puntos tiene una tangente horizontal?
+	\item	La curva con ecuación $ y^{2}=x^{3}+3x^{2} $ se llama cúbica de Tscherhausen. Encuentre una ecuación de la recta tangente a esta en $ (1,-2) $. ¿En cuáles puntos tiene una tangente horizontal?
 	
 	\item	Calcule
 	\begin{enumerate}
@@ -1995,21 +1995,33 @@ La recta buscada es $ y=-2 $.
 	
 \end{enumerate}
 
-
+%fin de seccion
+\newpage
  \section{Diferencial y sus aplicaciones}
  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ Puede confundir un poco ver este tema separado del anterior titulado derivada y sus aplicaciones; cuando la derivada y el diferencial guardan una relación muy estrecha. Se confeccionó así porque se está cumpliendo con lo que orientan las indicaciones metodológicas del curso para técnicos de ciclo corto. Lo que tendremos es una extension del tema anterior a la cual se le agrega el concepto de diferencial que es más abarcador que el de derivada.\\
+ Con este concepto se abren las puertas a nuevas herramientas muy \'utiles  en el cálculo aproximado y más.
+ 
+ 
+ 
  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
 
 
 
 
  \subsection{Diferencial en una variable}
-  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  
+  
+  
+  
+  
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
   La relación con la noción intuitiva y geométrica de derivada,se ve con el concepto de diferencial. 
   Este viene con la necesidad de rectificar una curva.\\
 \begin{figure}[h]
 	\centering
-	\includegraphics[width=5cm]{curva_diferencial}
+	\includegraphics[width=9cm]{curva_diferencial}
 	\label{curva_diferencial}
 	\caption{Representación geométrica del diferencial y el incremento.}
 \end{figure}
@@ -2025,7 +2037,7 @@ La recta buscada es $ y=-2 $.
 	Para que un función $ y=f(x) $ sea diferenciable en el punto $ x $ es necesario y suficiente que la función tenga derivada en el punto x.
 \end{teorema}
 \textbf{  Demostraci\'on}\\
-$ (\Rightarrow) $\\
+$ (\Rightarrow) $
 Supongamos que la funci\'on $ f(x) $ es diferenciable en $ x\in(a,b) $. Entonces su incremento 
 \[  	\Delta y=A\Delta x+\alpha\Delta x  \]
 al ser dividido por $ \Delta x\neq0 $
@@ -2057,9 +2069,13 @@ $ (\Leftarrow) $\\
   \begin{equation}
   \Delta y=f'(x)\Delta x+\alpha\Delta x
   \end{equation}
+  
   por la definici\'on de diferencial se tiene que ya llegamos a donde se quer\'ia $ \blacksquare $.\\
-  \fbox{Con funciones $ f:\mathbb{R}\rightarrow\mathbb{R} $ se tiene que \\
-  	derivada$ \Leftrightarrow $diferencial }
+  \begin{center}
+  \fbox{Con funciones $ f:\mathbb{R}\rightarrow\mathbb{R} $ se tiene que 
+  	derivada $ \Leftrightarrow $ diferencial }
+ \end{center}
+  
   
   \textbf{Consideraciones}\\
   El diferencial de $ x $ variable independiente coincide con su incremento 
@@ -2068,14 +2084,14 @@ $ (\Leftarrow) $\\
   \begin{array}{ll}
   dy\approx f'(x)dx & f'(x)\approx\dfrac{dy}{dx}
   \end{array}dy \]
-  El diferencial de una fuci'on difiere de la derivada solamente de un factor $ dx $. El c\'alculo de  este se resume al c\'alculo de la derivada. Los teoremas que se refieren a las derivadas siguensiendo v\'alidos para el diferencial.\\
+  El diferencial de una funci\'on difiere de la derivada solamente de un factor $ dx $. Su búsqueda se resume al c\'alculo de la derivada. Los teoremas que se refieren a las derivadas siguensiendo v\'alidos para el diferencial.\\
   \textbf{Reglas de diferenciaci\'on:}\\
   \begin{enumerate}
-  	\item $ d(cf)=cdf $ donde $ c=cte $.
+  	\item $ d(c\cdot f)=c\cdot df $ donde $ c=cte $.
   	\item $ d(f\mp g)=df\pm dg $
   	\item $ d(f\cdot g)=g\cdot df+f\cdot dg $
   	\item $ d\left (\dfrac{f}{g}\right )=\dfrac{gdf-fdg}{g^{2}} $; $ g\neq0 $
-  	\item EN el caso de la funci\'on compuesta $ y=f(g(x)) $
+  	\item En el caso de la funci\'on compuesta $ y=f(g(x)) $
   	\begin{equation}
   	\dfrac{dy}{dx}=\dfrac{df}{dx}=\dfrac{df}{dg}\cdot\dfrac{dg}{dx}=f'(g(x))g'(x)
   	\end{equation}
