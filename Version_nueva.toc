@@ -1,0 +1,56 @@
+\select@language {spanish}
+\select@language {spanish}
+\contentsline {section}{\numberline {1}Funci\'on, l\'imite y continuidad}{4}{section.1}
+\contentsline {subsection}{\numberline {1.1} Funci\IeC {\'o}n, concepto y ejemplos.}{4}{subsection.1.1}
+\contentsline {subsubsection}{\numberline {1.1.1}Formas de expresar una funci\IeC {\'o}n elemental}{5}{subsubsection.1.1.1}
+\contentsline {subsection}{\numberline {1.2}L\'imite de una funci\'on}{5}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Continuidad de una funci\'on}{11}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Tipos de discontinuidades}{13}{subsection.1.4}
+\contentsline {subsection}{\numberline {1.5}Infinitos e infinit\'esimos}{14}{subsection.1.5}
+\contentsline {subsubsection}{\numberline {1.5.1}Infit\IeC {\'e}simos equivalentes}{15}{subsubsection.1.5.1}
+\contentsline {subsubsection}{\numberline {1.5.2}L\IeC {\'\i }mites fundamentales}{17}{subsubsection.1.5.2}
+\contentsline {subsubsection}{\numberline {1.5.3}As\'intotas de una funci\'on}{18}{subsubsection.1.5.3}
+\contentsline {subsection}{\numberline {1.6}Formas indeterminadas. Regla de Leibniz.}{19}{subsection.1.6}
+\contentsline {subsection}{\numberline {1.7}Ejercicios Resueltos}{20}{subsection.1.7}
+\contentsline {subsection}{\numberline {1.8}Ejercicios Propuestos}{25}{subsection.1.8}
+\contentsline {section}{\numberline {2}Derivadas y sus aplicaciones}{25}{section.2}
+\contentsline {subsection}{\numberline {2.1}Problemas f\IeC {\'\i }sico y matem\IeC {\'a}tico que le dieron origen al concepto de derivada}{26}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}Problema matem\IeC {\'a}tico}{26}{subsubsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.2}Problema f\IeC {\'\i }sico}{27}{subsubsection.2.1.2}
+\contentsline {subsection}{\numberline {2.2}Concepto de derivada}{27}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Reglas de derivaci\'on}{27}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}Teoremas acerca de las propiedades de la derivadas}{28}{subsubsection.2.3.1}
+\contentsline {subsection}{\numberline {2.4}Tabla de las derivadas}{31}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Derivadas de orden superior.}{31}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.6}Derivada de la funci\IeC {\'o}n impl\IeC {\'\i }cita}{32}{subsection.2.6}
+\contentsline {subsubsection}{\numberline {2.6.1}Usos de la derivaci\IeC {\'o}n impl\IeC {\'\i }cita}{33}{subsubsection.2.6.1}
+\contentsline {subsection}{\numberline {2.7}Ejercicios Resueltos}{33}{subsection.2.7}
+\contentsline {subsection}{\numberline {2.8}Ejercicios Propuestos}{35}{subsection.2.8}
+\contentsline {section}{\numberline {3}Diferencial y sus aplicaciones}{36}{section.3}
+\contentsline {subsection}{\numberline {3.1}Diferencial en una variable}{36}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}C\'alculo aproximado}{37}{subsubsection.3.1.1}
+\contentsline {subsection}{\numberline {3.2}Teoremas Fermat, Rolle, Lagrange, Cauchy y Regla de L'Hopital}{38}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Regla de L'Hopital}{41}{subsubsection.3.2.1}
+\contentsline {subsection}{\numberline {3.3}B\'usqueda de extremos de funciones de una variable}{42}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}Criterio de la Segunda Derivada}{44}{subsubsection.3.3.1}
+\contentsline {subsection}{\numberline {3.4}Problemas de optimizaci\'on}{45}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Ejercicios Resueltos}{46}{subsection.3.5}
+\contentsline {subsection}{\numberline {3.6}Ejercicios Propuestos}{48}{subsection.3.6}
+\contentsline {section}{\numberline {4}Integrales}{48}{section.4}
+\contentsline {subsection}{\numberline {4.1}Integral indefinida. }{48}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {4.1.1}Integrales de tabla}{49}{subsubsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.2}Reglas de integraci\IeC {\'o}n (Propiedades)}{50}{subsubsection.4.1.2}
+\contentsline {subsection}{\numberline {4.2}M\IeC {\'e}todos de integraci\IeC {\'o}n}{51}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}Integraci\IeC {\'o}n por cambio de variables}{51}{subsubsection.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.2}Integraci\IeC {\'o}n por partes}{52}{subsubsection.4.2.2}
+\contentsline {subsubsection}{\numberline {4.2.3}Integraci\IeC {\'o}n por fracciones simples}{54}{subsubsection.4.2.3}
+\contentsline {subsection}{\numberline {4.3}Integrales definidas}{56}{subsection.4.3}
+\contentsline {subsubsection}{\numberline {4.3.1}Primer y segunto teorema del c\IeC {\'a}lculo interal. Problemas de C\IeC {\'a}lculo de \IeC {\'a}rea.}{62}{subsubsection.4.3.1}
+\contentsline {subsubsection}{\numberline {4.3.2}Integrales impropias}{64}{subsubsection.4.3.2}
+\contentsline {subsection}{\numberline {4.4}Ejercicios Resueltos}{65}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Ejercicios Propuestos}{72}{subsection.4.5}
+\contentsline {section}{\numberline {5}Anexos}{75}{section.5}
+\contentsline {subsection}{\numberline {5.1}Definiciones y teoremas}{75}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}M\IeC {\'e}todo de Hermite}{77}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Gr\IeC {\'a}ficas de funciones}{78}{subsection.5.3}
+\contentsfinish 
