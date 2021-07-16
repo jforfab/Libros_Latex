@@ -13,14 +13,14 @@
 \contentsline {subsection}{\numberline {1.6}Formas indeterminadas. Regla de Leibniz.}{19}{subsection.1.6}
 \contentsline {subsection}{\numberline {1.7}Ejercicios Resueltos}{20}{subsection.1.7}
 \contentsline {subsection}{\numberline {1.8}Ejercicios Propuestos}{25}{subsection.1.8}
-\contentsline {section}{\numberline {2}Derivadas y sus aplicaciones}{25}{section.2}
+\contentsline {section}{\numberline {2}Derivadas y sus aplicaciones}{26}{section.2}
 \contentsline {subsection}{\numberline {2.1}Problemas f\IeC {\'\i }sico y matem\IeC {\'a}tico que le dieron origen al concepto de derivada}{26}{subsection.2.1}
 \contentsline {subsubsection}{\numberline {2.1.1}Problema matem\IeC {\'a}tico}{26}{subsubsection.2.1.1}
 \contentsline {subsubsection}{\numberline {2.1.2}Problema f\IeC {\'\i }sico}{27}{subsubsection.2.1.2}
 \contentsline {subsection}{\numberline {2.2}Concepto de derivada}{27}{subsection.2.2}
-\contentsline {subsection}{\numberline {2.3}Reglas de derivaci\'on}{27}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.3}Reglas de derivaci\'on m\IeC {\'a}s usadas}{28}{subsection.2.3}
 \contentsline {subsubsection}{\numberline {2.3.1}Teoremas acerca de las propiedades de la derivadas}{28}{subsubsection.2.3.1}
-\contentsline {subsection}{\numberline {2.4}Tabla de las derivadas}{31}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.4}Tabla de las derivadas (las m\IeC {\'a}s usadas)}{31}{subsection.2.4}
 \contentsline {subsection}{\numberline {2.5}Derivadas de orden superior.}{31}{subsection.2.5}
 \contentsline {subsection}{\numberline {2.6}Derivada de la funci\IeC {\'o}n impl\IeC {\'\i }cita}{32}{subsection.2.6}
 \contentsline {subsubsection}{\numberline {2.6.1}Usos de la derivaci\IeC {\'o}n impl\IeC {\'\i }cita}{33}{subsubsection.2.6.1}
@@ -28,10 +28,10 @@
 \contentsline {subsection}{\numberline {2.8}Ejercicios Propuestos}{35}{subsection.2.8}
 \contentsline {section}{\numberline {3}Diferencial y sus aplicaciones}{36}{section.3}
 \contentsline {subsection}{\numberline {3.1}Diferencial en una variable}{36}{subsection.3.1}
-\contentsline {subsubsection}{\numberline {3.1.1}C\'alculo aproximado}{37}{subsubsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.1}C\'alculo aproximado}{38}{subsubsection.3.1.1}
 \contentsline {subsection}{\numberline {3.2}Teoremas Fermat, Rolle, Lagrange, Cauchy y Regla de L'Hopital}{38}{subsection.3.2}
-\contentsline {subsubsection}{\numberline {3.2.1}Regla de L'Hopital}{41}{subsubsection.3.2.1}
-\contentsline {subsection}{\numberline {3.3}B\'usqueda de extremos de funciones de una variable}{42}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.2.1}Regla de L'Hopital}{42}{subsubsection.3.2.1}
+\contentsline {subsection}{\numberline {3.3}B\'usqueda de extremos de funciones de una variable}{43}{subsection.3.3}
 \contentsline {subsubsection}{\numberline {3.3.1}Criterio de la Segunda Derivada}{44}{subsubsection.3.3.1}
 \contentsline {subsection}{\numberline {3.4}Problemas de optimizaci\'on}{45}{subsection.3.4}
 \contentsline {subsection}{\numberline {3.5}Ejercicios Resueltos}{46}{subsection.3.5}

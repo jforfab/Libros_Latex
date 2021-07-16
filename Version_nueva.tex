@@ -1389,7 +1389,7 @@ Es importante aplicar correctamente los conceptos de funci\'on continua y el con
 		\begin{enumerate}
 			\item[(a)]	$ \dfrac{1}{1+x} $ y $  1-x $ 
 			\item[(b)]	$ \sqrt{9+x} $ y $ 9+\frac{x}{18} $
-			\item[(c)]	$ 1+x^{n} $ y $ 1+nx\;\;\;\;\;\;\;n\in\natural $
+			\item[(c)]	$ 1+x^{n} $ y $ 1+nx\;\;\;\;\;\;\;n\in\mathbb{N}$
 			\item[(d)]	$ \ln(1+x) $ y $ Mx $
 		\end{enumerate}
 %	\item
@@ -1400,10 +1400,15 @@ Es importante aplicar correctamente los conceptos de funci\'on continua y el con
 
 	
 \end{enumerate}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%fin del tema
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Derivadas y sus aplicaciones}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-Los logros obtenidos durante un largo proceso socio-económico conocido como Revolución Comercial y la emergencia de una pujante clase burguesa en el occidente europeo, fueron creando nuevos intereses que pronto necesitaron expandirse. La búsqueda de nuevas rutas comerciales impulsó la navegación, ésta a la astronomía y a la mecánica. Poco más o menos, en unos 200 años que median entre 1450 y 1650 se gestaron las condiciones para que los sabios crearan una disciplina que respondiera a las nuevas exigencias. Muy en especial, esta nueva disciplina debía brindar algoritmos generales para cálculos más precisos y eficaces en la resolución de los apremiantes problemas asociados al estudio del movimiento y la variabilidad. \\
+Los logros obtenidos durante un largo proceso socio-económico conocido como Revolución Comercial y la emergencia de una pujante clase burguesa en el occidente europeo, fueron creando nuevos intereses que pronto necesitaron expandirse. La búsqueda de nuevas rutas comerciales impulsó la navegación, ésta a la astronomía y a la mecánica. En los 200 años que median entre 1450 y 1650 se gestaron las condiciones para que los sabios crearan una disciplina que respondiera a las nuevas exigencias. Muy en especial, esta nueva disciplina debía brindar algoritmos generales para cálculos más precisos y eficaces en la resolución de los apremiantes problemas asociados al estudio del movimiento y la variabilidad. \\
 Las aplicaciones de las derivadas son inumerables, pero de ellas destacan los problemas fisico y matemático que le dieron origen. De ellos se derivan el resto de sus aplicaciones. La velocidad media, la pendiente de una recta son problemas que se resuelven con esta.
 
 
@@ -1433,16 +1438,19 @@ La pendiente de una recta que pasa por dos puntos es $ m=\dfrac{y_{2}-y_{1}}{x_{
 
 Sea una curva $ C $ dad por la ecuación $ y=f(x) $ donde la función $ f $ es continua en el intervalo $ (a,b) $. Sea $ P(x_{0},y_{0})$,  con $ x_{0}\in(a,b) $ un punto fijo de $ C $ y $ Q(x,f(x)) $ un punto variable, tal que $ x\in(a,b) $. Ver (\ref{curva_con_secante}).\\
 \begin{figure}[h]
-	\includegraphics[width=5cm]{curva_con_secante} \label{curva_con_secante}
+	\centering
+	\includegraphics[width=10cm]{curva_con_secante} 
 	\caption{Curva con secante}
+	\label{curva_con_secante}
 \end{figure}
+
 Como se puede apreciar entre el punto $ P $ y el $ Q $, se puede trazar una recta secante a la curva, con pendiente
 \[ m_{sec}=\dfrac{f(x_{0}+\Delta x)-f(x_{0})}{\Delta x} \]
 Si trazamos sucesivas rectas secantes con $ x $ cada vez más cerca de $ x_{0} $. Es decir $ x\rightarrow x_{0} $ o lo que es lo mismo $ \Delta x\rightarrow0 $. Se obtendr\'a que la recta límite esuna recta tangente a la curva en el punto $ P $.
 
 \begin{figure}[h]
 	\centering
-	\includegraphics[width=5cm]{curvas_con_secantes}
+	\includegraphics[width=10cm]{curvas_con_secantes}
 	\label{curvas_con_secantes}
 	\caption{Interpretaci\'on geom\'etrica}
 \end{figure}
@@ -1500,7 +1508,7 @@ Son usadas para el c\'alculo límite por la definición las siguientes fórmulas
 \end{enumerate}
 Todas son equivalentes, su uso está en dependencia del fin de la demostración.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Reglas de derivaci\'on}
+\subsection{Reglas de derivaci\'on más usadas}
 
 
 
@@ -1519,9 +1527,9 @@ Dada una funciones derivables $ f(x), g(x) $ con $ g(x)\neq0 $
 \[ \fbox{$\displaystyle[f(x)+g(x)]'=f'(x)+g'(x)$} \]
 \[ \fbox{$\displaystyle[f(x)-g(x)]'=f'(x)-g'(x)$} \]
 \[ \fbox{$\displaystyle[f(x)\cdot g(x)]'=f'(x)\cdot g(x)+g'(x)\cdot f(x)$} \]
-\[ \fbox{$\displaystyle[\frac{f(x)}{g(x)}]'=\frac{f'(x)\cdot g(x)-g'(x)\cdot f(x)}{[f(x)]^{2}}$} \]
+\[ \fbox{$\displaystyle\left [\frac{f(x)}{g(x)}\right ]'=\frac{f'(x)\cdot g(x)-g'(x)\cdot f(x)}{[f(x)]^{2}}$} \]
 \[ \fbox{$\displaystyle(f[g(x)])'=f'[g(x)] \cdot g'(x)$} \]}
-Estas son las propiedades m\'as usadas.
+Como se ha enunciado en esta sección, estas reglas no son las únicas pero si las básicas.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \subsubsection{Teoremas acerca de las propiedades de la derivadas}
@@ -1688,7 +1696,7 @@ La continuidad de $ f $ y $ f^{-1} $, garantiza que $ \Delta x\rightarrow0\Right
 \end{equation}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
  %%%%%
-\subsection{Tabla de las derivadas}
+\subsection{Tabla de las derivadas (las más usadas)}
 $ (c)'=0 $\\
 $ (x^{n})'=n\cdot x^{n-1} $\\
 $ (\log_{a}x)=\dfrac{1}{x}\log_{a}e $ en particular $ (\ln x)'= \dfrac{1}{x} $\\
@@ -1707,12 +1715,12 @@ $ (arccot x)'=-\dfrac{1}{1+x^{2}} $\\
 
 \subsection{Derivadas de orden superior.}
 Supongamos que una funci\'on $ f:(a,b)\rightarrow\mathbb{R} $ es derivable en el intervalo $ (a,b) $, entonces su función derivada $ f' $ tiene como dominio en intervalo $ (a,b) $.
-Si $ f' $ es tambi'en derivable en $ (a,b) $, entonces la derivada de $ f' $ se denomina segunda derivada de la función $ f $ y se denota por $ f''(x) $.
-\[ f''(x)=(f'(x))' \]
+Si $ f' $ es tambi\'en derivable en $ (a,b) $, entonces la derivada de $ f' $ se denomina segunda derivada de la función $ f $ y se denota por $ f''(x) $.
+\[ f''(x)=[f'(x)]' \]
 \begin{thm}
 	Si existe la derivada $ f^{(n-1)}(x) $ de orden $ n-1 $ $ (n>2) $ en $ (a,b) $, entonces la derivada de orden $ n $ se define por
 	\begin{equation}
-	f^{(n)}(x)=\dfrac{d^{n}f(x)}{dx^{n}}=(f^{(n-1)})'(x)  \hbox{ con $x\in(a,b)  $}
+	f^{(n)}(x)=\dfrac{d^{n}f(x)}{dx^{n}}=[f^{(n-1)}]'(x)  \hbox{ con $x\in(a,b)  $}
 	\end{equation}
 \end{thm}
 Por convenio muchos autores toman $ f^{0}(x)=f(x) $.\\
@@ -1788,14 +1796,14 @@ funciones continuas en algún dominio D, que contenga al punto $ (x_{0}, y_{0}) 
   \dfrac{\partial F}{\partial y}\neq0  
 \end{equation}
 
-Entonces se tendrá que en el punto $ (x_{0}, y_{0}) $ exite la derivada de la función $ y $ respecto a la variable $ x $ siendo esta expresada por la fórmula:
+Entonces se tendrá que en el punto $ (x_{0}, y_{0}) $ exite la derivada de la función $" y "$ respecto a la variable $ "x" $ siendo esta expresada por la fórmula:
 \begin{equation}\label{funcion_implicita}
  \frac{dy}{dx}\Bigg|_{x=x_{0}}=-\dfrac{\dfrac{\partial F}{\partial x}\Bigg|_{(x_{0}, y_{0})}}{\dfrac{\partial F}{\partial y}\Bigg|_{(x_{0}, y_{0})}} 
 \end{equation}
 	
 \end{teorema}
 
-fbox{\textbf{**Nota}:$ \partial $ es el símbolo de derivada parcial, se usa en el caso de tener una función de varias variables, en este caso $ F(x,y) $ es una función de dos variables y puede ser derivada con respecto a $ x $ o a $ y $; $ \frac{\partial F}{\partial x}(x,y) $ y $ \frac{\partial F}{\partial y}(x,y)  $ respectivamente.}\\
+\textbf{Nota}: $ \partial $ es el símbolo de derivada parcial, se usa en el caso de tener una función de varias variables, en este caso $ F(x,y) $ es una función de dos variables y puede ser derivada con respecto a $ x $ o a $ y $; $ \frac{\partial F}{\partial x}(x,y) $ y $ \frac{\partial F}{\partial y}(x,y)  $ respectivamente.\\
 
 Aplicando el teorema(\ref{funcion_implicita}):\\
 \begin{equation}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2021.1.20)  16 JUL 2021 11:37
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2021.1.20)  16 JUL 2021 14:40
 entering extended mode
 **Version_nueva.tex
 (E:\Trabajo\teletrabajo\mes_enero21\version_nueva_folleto\Version_nueva.tex
@@ -1450,44 +1450,39 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
 File: recta_seccante.jpg Graphic file (type jpg)
 
 <use recta_seccante.jpg>
-Package pdftex.def Info: recta_seccante.jpg used on input line 1420.
+Package pdftex.def Info: recta_seccante.jpg used on input line 1425.
 (pdftex.def)             Requested size: 142.26378pt x 101.44044pt.
  <pendiente.jpg, id=623, 692.5875pt x 424.58624pt>
 File: pendiente.jpg Graphic file (type jpg)
 
 <use pendiente.jpg>
-Package pdftex.def Info: pendiente.jpg used on input line 1424.
+Package pdftex.def Info: pendiente.jpg used on input line 1429.
 (pdftex.def)             Requested size: 142.26378pt x 87.20918pt.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1424.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1429.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1424.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1429.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1430--1432
+Underfull \hbox (badness 10000) in paragraph at lines 1435--1437
 
  []
-
-
-Package caption Warning: \label before \caption on input line 1436.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `curva_con_secante' on page 26 undefined on input line
- 1434.
 
 <curva_con_secante.jpg, id=625, 694.09312pt x 485.56406pt>
 File: curva_con_secante.jpg Graphic file (type jpg)
 
 <use curva_con_secante.jpg>
-Package pdftex.def Info: curva_con_secante.jpg used on input line 1436.
-(pdftex.def)             Requested size: 142.26378pt x 99.51904pt.
+Package pdftex.def Info: curva_con_secante.jpg used on input line 1442.
+(pdftex.def)             Requested size: 284.52756pt x 199.0529pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 <curvas_con_secantes.jpg, id=626, 692.5875pt x 468.24937pt>
 File: curvas_con_secantes.jpg Graphic file (type jpg)
 
 <use curvas_con_secantes.jpg>
-Package pdftex.def Info: curvas_con_secantes.jpg used on input line 1445.
-(pdftex.def)             Requested size: 142.26378pt x 96.1775pt.
+Package pdftex.def Info: curvas_con_secantes.jpg used on input line 1453.
+(pdftex.def)             Requested size: 284.52756pt x 192.3693pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -1499,9 +1494,8 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [26 <E:/Trabajo/teletrabajo/mes_enero21/version_nueva_folleto/recta_seccante.jp
-g> <E:/Trabajo/teletrabajo/mes_enero21/version_nueva_folleto/pendiente.jpg> <E:
-/Trabajo/teletrabajo/mes_enero21/version_nueva_folleto/curva_con_secante.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 1487--1491
+g> <E:/Trabajo/teletrabajo/mes_enero21/version_nueva_folleto/pendiente.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 1495--1499
 
  []
 
@@ -1511,9 +1505,10 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[27 <E:/Trabajo/teletrabajo/mes_enero21/version_nueva_folleto/curvas_con_secant
-es.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 1536--1539
+[27 <E:/Trabajo/teletrabajo/mes_enero21/version_nueva_folleto/curva_con_secante
+.jpg> <E:/Trabajo/teletrabajo/mes_enero21/version_nueva_folleto/curvas_con_seca
+ntes.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 1544--1547
 
  []
 
@@ -1524,10 +1519,6 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [28]
-Underfull \hbox (badness 10000) in paragraph at lines 1637--1641
-
- []
-
 
 Package Fancyhdr Warning: \headheight is too small (11.0pt): 
  Make it at least 12.0pt.
@@ -1535,12 +1526,12 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [29]
-Underfull \hbox (badness 10000) in paragraph at lines 1671--1672
+Underfull \hbox (badness 10000) in paragraph at lines 1645--1649
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1692--1704
+Underfull \hbox (badness 10000) in paragraph at lines 1679--1680
 
  []
 
@@ -1551,10 +1542,9 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [30]
+Underfull \hbox (badness 10000) in paragraph at lines 1700--1712
 
-Package amsmath Warning: Foreign command \atopwithdelims;
-(amsmath)                \frac or \genfrac should be used instead
-(amsmath)                 on input line 1740.
+ []
 
 
 Package Fancyhdr Warning: \headheight is too small (11.0pt): 
@@ -1563,22 +1553,18 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [31]
-Underfull \hbox (badness 10000) in paragraph at lines 1798--1799
+
+Package amsmath Warning: Foreign command \atopwithdelims;
+(amsmath)                \frac or \genfrac should be used instead
+(amsmath)                 on input line 1748.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1806--1807
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1800--1801
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1810--1812
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1814--1816
+Underfull \hbox (badness 10000) in paragraph at lines 1808--1809
 
  []
 
@@ -1589,7 +1575,17 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [32]
-Underfull \hbox (badness 10000) in paragraph at lines 1855--1857
+Underfull \hbox (badness 10000) in paragraph at lines 1818--1820
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1822--1824
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1863--1865
 
  []
 
@@ -1600,17 +1596,12 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [33]
-Underfull \hbox (badness 10000) in paragraph at lines 1882--1884
+Underfull \hbox (badness 10000) in paragraph at lines 1890--1892
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1908--1909
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1919--1921
+Underfull \hbox (badness 10000) in paragraph at lines 1916--1917
 
  []
 
@@ -1621,7 +1612,12 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [34]
-Underfull \hbox (badness 10000) in paragraph at lines 1968--1969
+Underfull \hbox (badness 10000) in paragraph at lines 1927--1929
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1976--1977
 
  []
 
@@ -1631,11 +1627,11 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[35] <curva_diferencial.jpg, id=761, 383.031pt x 264.5082pt>
+[35] <curva_diferencial.jpg, id=758, 383.031pt x 264.5082pt>
 File: curva_diferencial.jpg Graphic file (type jpg)
 
 <use curva_diferencial.jpg>
-Package pdftex.def Info: curva_diferencial.jpg used on input line 2004.
+Package pdftex.def Info: curva_diferencial.jpg used on input line 2012.
 (pdftex.def)             Requested size: 142.26378pt x 98.24588pt.
 
 
@@ -1646,19 +1642,25 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
 
 [36 <E:/Trabajo/teletrabajo/mes_enero21/version_nueva_folleto/curva_diferencial
 .jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 2062--2066
+Underfull \hbox (badness 10000) in paragraph at lines 2070--2074
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2095--2096
+Underfull \hbox (badness 10000) in paragraph at lines 2103--2104
 
  []
 
-<fermat1.jpg, id=779, 408.5664pt x 250.536pt>
+
+Package Fancyhdr Warning: \headheight is too small (11.0pt): 
+ Make it at least 12.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[37] <fermat1.jpg, id=790, 408.5664pt x 250.536pt>
 File: fermat1.jpg Graphic file (type jpg)
  <use fermat1.jpg>
-Package pdftex.def Info: fermat1.jpg used on input line 2125.
+Package pdftex.def Info: fermat1.jpg used on input line 2133.
 (pdftex.def)             Requested size: 142.26378pt x 87.23781pt.
 
 
@@ -1667,33 +1669,18 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[37] <rolle1.jpg, id=801, 450.9648pt x 248.6088pt>
+[38 <E:/Trabajo/teletrabajo/mes_enero21/version_nueva_folleto/fermat1.jpg>]
+<rolle1.jpg, id=808, 450.9648pt x 248.6088pt>
 File: rolle1.jpg Graphic file (type jpg)
  <use rolle1.jpg>
-Package pdftex.def Info: rolle1.jpg used on input line 2180.
+Package pdftex.def Info: rolle1.jpg used on input line 2188.
 (pdftex.def)             Requested size: 142.26378pt x 78.42598pt.
 
-<rolle2.jpg, id=802, 516.4896pt x 254.8722pt>
+<rolle2.jpg, id=809, 516.4896pt x 254.8722pt>
 File: rolle2.jpg Graphic file (type jpg)
  <use rolle2.jpg>
-Package pdftex.def Info: rolle2.jpg used on input line 2181.
+Package pdftex.def Info: rolle2.jpg used on input line 2189.
 (pdftex.def)             Requested size: 142.26378pt x 70.2009pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Package Fancyhdr Warning: \headheight is too small (11.0pt): 
- Make it at least 12.0pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[38 <E:/Trabajo/teletrabajo/mes_enero21/version_nueva_folleto/fermat1.jpg>]
-<lagrange1.jpg, id=822, 399.4122pt x 254.8722pt>
-File: lagrange1.jpg Graphic file (type jpg)
- <use lagrange1.jpg>
-Package pdftex.def Info: lagrange1.jpg used on input line 2208.
-(pdftex.def)             Requested size: 142.26378pt x 90.78165pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (11.0pt): 
@@ -1702,9 +1689,14 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [39 <E:/Trabajo/teletrabajo/mes_enero21/version_nueva_folleto/rolle1.jpg> <E:/T
-rabajo/teletrabajo/mes_enero21/version_nueva_folleto/rolle2.jpg> <E:/Trabajo/te
-letrabajo/mes_enero21/version_nueva_folleto/lagrange1.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 2229--2230
+rabajo/teletrabajo/mes_enero21/version_nueva_folleto/rolle2.jpg>]
+<lagrange1.jpg, id=830, 399.4122pt x 254.8722pt>
+File: lagrange1.jpg Graphic file (type jpg)
+ <use lagrange1.jpg>
+Package pdftex.def Info: lagrange1.jpg used on input line 2216.
+(pdftex.def)             Requested size: 142.26378pt x 90.78165pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2237--2238
 
  []
 
@@ -1714,8 +1706,8 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[40]
-Underfull \hbox (badness 10000) in paragraph at lines 2313--2315
+[40 <E:/Trabajo/teletrabajo/mes_enero21/version_nueva_folleto/lagrange1.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 2321--2323
 
  []
 
@@ -1726,12 +1718,12 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [41]
-Underfull \hbox (badness 10000) in paragraph at lines 2355--2356
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2364
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2370--2371
+Underfull \hbox (badness 10000) in paragraph at lines 2378--2379
 
  []
 
@@ -1752,13 +1744,13 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
 File: caso1Criterio.jpg Graphic file (type jpg)
 
 <use caso1Criterio.jpg>
-Package pdftex.def Info: caso1Criterio.jpg used on input line 2499.
+Package pdftex.def Info: caso1Criterio.jpg used on input line 2507.
 (pdftex.def)             Requested size: 142.26378pt x 95.01152pt.
  <caso2Criterio.jpg, id=920, 402.303pt x 277.035pt>
 File: caso2Criterio.jpg Graphic file (type jpg)
 
 <use caso2Criterio.jpg>
-Package pdftex.def Info: caso2Criterio.jpg used on input line 2501.
+Package pdftex.def Info: caso2Criterio.jpg used on input line 2509.
 (pdftex.def)             Requested size: 142.26378pt x 97.96555pt.
 
 
@@ -1770,11 +1762,11 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
 [44 <E:/Trabajo/teletrabajo/mes_enero21/version_nueva_folleto/caso1Criterio.jpg
 > <E:/Trabajo/teletrabajo/mes_enero21/version_nueva_folleto/caso2Criterio.jpg>]
 
-Package caption Warning: \label before \caption on input line 2496.
+Package caption Warning: \label before \caption on input line 2504.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `casoCriterio' on page 45 undefined on input line 2543
+LaTeX Warning: Reference `casoCriterio' on page 45 undefined on input line 2551
 .
 
 
@@ -1791,16 +1783,16 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [46]
-Underfull \hbox (badness 10000) in paragraph at lines 2682--2684
+Underfull \hbox (badness 10000) in paragraph at lines 2690--2692
 
  []
 
 
-LaTeX Warning: Command \textexclamdown invalid in math mode on input line 2703.
+LaTeX Warning: Command \textexclamdown invalid in math mode on input line 2711.
 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2706--2707
+Underfull \hbox (badness 10000) in paragraph at lines 2714--2715
 
  []
 
@@ -1818,12 +1810,12 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [48]
-Underfull \hbox (badness 10000) in paragraph at lines 2893--2894
+Underfull \hbox (badness 10000) in paragraph at lines 2901--2902
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2901--2906
+Underfull \hbox (badness 10000) in paragraph at lines 2909--2914
 
  []
 
@@ -1849,7 +1841,7 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
 
 [51]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/sl' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/sl' tried instead on input line 3090.
+(Font)              Font shape `OT1/ptm/b/sl' tried instead on input line 3098.
 
 
 
@@ -1859,7 +1851,7 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [52]
-Underfull \hbox (badness 10000) in paragraph at lines 3136--3138
+Underfull \hbox (badness 10000) in paragraph at lines 3144--3146
 
  []
 
@@ -1870,7 +1862,7 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [53]
-Underfull \hbox (badness 10000) in paragraph at lines 3215--3217
+Underfull \hbox (badness 10000) in paragraph at lines 3223--3225
 
  []
 
@@ -1891,10 +1883,10 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
 File: integracion1.jpg Graphic file (type jpg)
 
 <use integracion1.jpg>
-Package pdftex.def Info: integracion1.jpg used on input line 3323.
+Package pdftex.def Info: integracion1.jpg used on input line 3331.
 (pdftex.def)             Requested size: 142.26378pt x 107.1648pt.
 
-Overfull \hbox (4.85417pt too wide) in paragraph at lines 3331--3332
+Overfull \hbox (4.85417pt too wide) in paragraph at lines 3339--3340
 []\OT1/ptm/m/it/10 (-20) Dado un in-ter-va-lo ce-rra-do $\OT1/ztmcm/m/n/10 [\OM
 L/ztmcm/m/it/10 a; b\OT1/ztmcm/m/n/10 ]$\OT1/ptm/m/it/10 (-20) , lla-ma-re-mos 
 par-ti-ci[]on de $\OT1/ztmcm/m/n/10 [\OML/ztmcm/m/it/10 a; b\OT1/ztmcm/m/n/10 ]
@@ -1913,13 +1905,13 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
 ] <integracion2.jpg, id=1159, 441.3288pt x 324.7332pt>
 File: integracion2.jpg Graphic file (type jpg)
  <use integracion2.jpg>
-Package pdftex.def Info: integracion2.jpg used on input line 3362.
+Package pdftex.def Info: integracion2.jpg used on input line 3370.
 (pdftex.def)             Requested size: 142.26378pt x 104.67981pt.
 
 <integracion3.jpg, id=1161, 469.755pt x 332.442pt>
 File: integracion3.jpg Graphic file (type jpg)
  <use integracion3.jpg>
-Package pdftex.def Info: integracion3.jpg used on input line 3378.
+Package pdftex.def Info: integracion3.jpg used on input line 3386.
 (pdftex.def)             Requested size: 142.26378pt x 100.67688pt.
 
 
@@ -1943,21 +1935,21 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
 ] <integracion5.jpg, id=1187, 386.4036pt x 248.6088pt>
 File: integracion5.jpg Graphic file (type jpg)
  <use integracion5.jpg>
-Package pdftex.def Info: integracion5.jpg used on input line 3442.
+Package pdftex.def Info: integracion5.jpg used on input line 3450.
 (pdftex.def)             Requested size: 199.16928pt x 128.14685pt.
 
 <integracion4.jpg, id=1188, 441.3288pt x 332.442pt>
 File: integracion4.jpg Graphic file (type jpg)
  <use integracion4.jpg>
-Package pdftex.def Info: integracion4.jpg used on input line 3449.
+Package pdftex.def Info: integracion4.jpg used on input line 3457.
 (pdftex.def)             Requested size: 142.26378pt x 107.1648pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 3454--3456
+Underfull \hbox (badness 10000) in paragraph at lines 3462--3464
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3458--3460
+Underfull \hbox (badness 10000) in paragraph at lines 3466--3468
 
  []
 
@@ -1972,7 +1964,7 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
 <integracion6.jpg, id=1202, 441.3288pt x 332.442pt>
 File: integracion6.jpg Graphic file (type jpg)
  <use integracion6.jpg>
-Package pdftex.def Info: integracion6.jpg used on input line 3517.
+Package pdftex.def Info: integracion6.jpg used on input line 3525.
 (pdftex.def)             Requested size: 142.26378pt x 107.1648pt.
 
 
@@ -1985,17 +1977,17 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [60]
-Underfull \hbox (badness 10000) in paragraph at lines 3533--3535
+Underfull \hbox (badness 10000) in paragraph at lines 3541--3543
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3537--3539
+Underfull \hbox (badness 10000) in paragraph at lines 3545--3547
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3543--3545
+Underfull \hbox (badness 10000) in paragraph at lines 3551--3553
 
  []
 
@@ -2009,7 +2001,7 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
 ] <integracion7.jpg, id=1237, 416.757pt x 292.4526pt>
 File: integracion7.jpg Graphic file (type jpg)
  <use integracion7.jpg>
-Package pdftex.def Info: integracion7.jpg used on input line 3604.
+Package pdftex.def Info: integracion7.jpg used on input line 3612.
 (pdftex.def)             Requested size: 142.26378pt x 99.82973pt.
 
 
@@ -2027,7 +2019,7 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [63]
-Underfull \hbox (badness 10000) in paragraph at lines 3777--3779
+Underfull \hbox (badness 10000) in paragraph at lines 3785--3787
 
  []
 
@@ -2038,7 +2030,7 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [64]
-Underfull \hbox (badness 10000) in paragraph at lines 3827--3828
+Underfull \hbox (badness 10000) in paragraph at lines 3835--3836
 
  []
 
@@ -2049,12 +2041,12 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [65]
-Underfull \hbox (badness 10000) in paragraph at lines 3893--3894
+Underfull \hbox (badness 10000) in paragraph at lines 3901--3902
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3900--3902
+Underfull \hbox (badness 10000) in paragraph at lines 3908--3910
 
  []
 
@@ -2065,12 +2057,12 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [66]
-Underfull \hbox (badness 10000) in paragraph at lines 3967--3968
+Underfull \hbox (badness 10000) in paragraph at lines 3975--3976
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3970--3972
+Underfull \hbox (badness 10000) in paragraph at lines 3978--3980
 
  []
 
@@ -2095,12 +2087,12 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [69]
-Underfull \hbox (badness 10000) in paragraph at lines 4113--4114
+Underfull \hbox (badness 10000) in paragraph at lines 4121--4122
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4142--4143
+Underfull \hbox (badness 10000) in paragraph at lines 4150--4151
 
  []
 
@@ -2111,12 +2103,12 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [70]
-Underfull \hbox (badness 10000) in paragraph at lines 4156--4158
+Underfull \hbox (badness 10000) in paragraph at lines 4164--4166
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4160--4162
+Underfull \hbox (badness 10000) in paragraph at lines 4168--4170
 
  []
 
@@ -2148,7 +2140,7 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [74]
-Underfull \hbox (badness 10000) in paragraph at lines 4338--4342
+Underfull \hbox (badness 10000) in paragraph at lines 4346--4350
 
  []
 
@@ -2159,12 +2151,12 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [75]
-Underfull \hbox (badness 10000) in paragraph at lines 4403--4405
+Underfull \hbox (badness 10000) in paragraph at lines 4411--4413
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4408--4411
+Underfull \hbox (badness 10000) in paragraph at lines 4416--4419
 
  []
 
@@ -2185,13 +2177,13 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
 File: funciones_1.jpg Graphic file (type jpg)
 
 <use funciones_1.jpg>
-Package pdftex.def Info: funciones_1.jpg used on input line 4509.
+Package pdftex.def Info: funciones_1.jpg used on input line 4517.
 (pdftex.def)             Requested size: 426.79134pt x 277.84227pt.
  <funciones_2.jpg, id=1510, 608.2725pt x 395.97937pt>
 File: funciones_2.jpg Graphic file (type jpg)
 
 <use funciones_2.jpg>
-Package pdftex.def Info: funciones_2.jpg used on input line 4517.
+Package pdftex.def Info: funciones_2.jpg used on input line 4525.
 (pdftex.def)             Requested size: 426.79134pt x 277.84227pt.
 
 
@@ -2200,7 +2192,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <funciones_3.jpg, id=1511, 606.76688pt x 135.50626pt>
 File: funciones_3.jpg Graphic file (type jpg)
  <use funciones_3.jpg>
-Package pdftex.def Info: funciones_3.jpg used on input line 4524.
+Package pdftex.def Info: funciones_3.jpg used on input line 4532.
 (pdftex.def)             Requested size: 426.79134pt x 95.3148pt.
 
 
@@ -2209,7 +2201,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <funciones_4.jpg, id=1512, 604.50844pt x 262.73157pt>
 File: funciones_4.jpg Graphic file (type jpg)
  <use funciones_4.jpg>
-Package pdftex.def Info: funciones_4.jpg used on input line 4533.
+Package pdftex.def Info: funciones_4.jpg used on input line 4541.
 (pdftex.def)             Requested size: 426.79134pt x 185.49036pt.
 
 
@@ -2243,14 +2235,14 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [80 <E:/Trabajo/teletrabajo/mes_enero21/version_nueva_folleto/funciones_4.jpg>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 4563.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 4563.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 4571.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 4571.
 (E:\Trabajo\teletrabajo\mes_enero21\version_nueva_folleto\Version_nueva.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 4563.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 4563.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 4571.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 4571.
 
 Package rerunfilecheck Info: File `Version_nueva.out' has not changed.
-(rerunfilecheck)             Checksum: E906E52D388808169165B584CA88CC51;4358.
+(rerunfilecheck)             Checksum: 0C5A5093CA935A01C7C4E49F0F54142A;4394.
 
 
 LaTeX Warning: There were undefined references.
@@ -2259,7 +2251,7 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  12778 strings out of 494045
  185323 string characters out of 3147578
- 320511 words of memory out of 3000000
+ 320481 words of memory out of 3000000
  14609 multiletter control sequences out of 15000+200000
  88577 words of font info for 337 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
@@ -2281,7 +2273,7 @@ s/utmb8a.pfb><E:/Programas_instalados/Latex/fonts/type1/urw/times/utmbi8a.pfb><
 E:/Programas_instalados/Latex/fonts/type1/urw/times/utmr8a.pfb><E:/Programas_in
 stalados/Latex/fonts/type1/urw/times/utmr8a.pfb><E:/Programas_instalados/Latex/
 fonts/type1/urw/times/utmri8a.pfb>
-Output written on Version_nueva.pdf (80 pages, 1619841 bytes).
+Output written on Version_nueva.pdf (80 pages, 1620242 bytes).
 PDF statistics:
  1774 PDF objects out of 2073 (max. 8388607)
  897 named destinations out of 1000 (max. 500000)
