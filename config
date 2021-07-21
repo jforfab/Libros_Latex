@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "folleto"]
+	url = https://github.com/jforfab/Libros_Latex.git
+	fetch = +refs/heads/*:refs/remotes/folleto/*
+[branch "master"]
+	remote = https://github.com/jforfab/Libros_Latex.git
+	merge = refs/heads/master
