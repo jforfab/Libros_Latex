@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2021.1.20)  21 JUL 2021 15:21
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2021.1.20)  22 JUL 2021 16:47
 entering extended mode
-**Version_nueva.tex
-(E:\Trabajo\teletrabajo\mes_enero21\version_nueva_folleto\Version_nueva.tex
+**final.tex
+(C:\Users\Joshua\Desktop\FolletoITM\final.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -13,7 +13,7 @@ an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese,
 romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
 sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
 senglishmax, welsh, loaded.
-(E:\Trabajo\teletrabajo\mes_enero21\version_nueva_folleto\SelfArx.cls
+(C:\Users\Joshua\Desktop\FolletoITM\SelfArx.cls
 Document Class: SelfArx 25/01/2012, v1.0
 (E:\Programas_instalados\Latex\tex\latex\base\ifthen.sty
 Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
@@ -577,7 +577,7 @@ Package microtype Info: Loading configuration file microtype.cfg.
 (E:\Programas_instalados\Latex\tex\latex\microtype\microtype.cfg
 File: microtype.cfg 2010/01/10 v2.4 microtype main configuration file (RS)
 ))
-(E:\Trabajo\teletrabajo\mes_enero21\version_nueva_folleto\widetext.sty
+(C:\Users\Joshua\Desktop\FolletoITM\widetext.sty
 Package: widetext 
 
 (E:\Programas_instalados\Latex\tex\latex\sttools\flushend.sty
@@ -729,7 +729,7 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 43.
 Package hyperref Info: Option `breaklinks' set `true' on input line 43.
 Package hyperref Info: Option `bookmarksopen' set `false' on input line 43.
 
-(E:\Trabajo\teletrabajo\mes_enero21\version_nueva_folleto\Version_nueva.aux)
+(C:\Users\Joshua\Desktop\FolletoITM\final.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
 LaTeX Font Info:    ... okay on input line 73.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 73.
@@ -836,8 +836,8 @@ LaTeX Info: Redefining \ref on input line 73.
 LaTeX Info: Redefining \pageref on input line 73.
 LaTeX Info: Redefining \nameref on input line 73.
 
-(E:\Trabajo\teletrabajo\mes_enero21\version_nueva_folleto\Version_nueva.out)
-(E:\Trabajo\teletrabajo\mes_enero21\version_nueva_folleto\Version_nueva.out)
+(C:\Users\Joshua\Desktop\FolletoITM\final.out)
+(C:\Users\Joshua\Desktop\FolletoITM\final.out)
 \@outlinefile=\write3
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 85.
@@ -845,8 +845,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 85.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 89.
-
-[1
+ [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
 LaTeX Font Info:    Try loading font information for OT1+phv on input line 105.
@@ -894,7 +893,7 @@ File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 (E:\Programas_instalados\Latex\tex\latex\microtype\mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-(E:\Trabajo\teletrabajo\mes_enero21\version_nueva_folleto\Version_nueva.toc
+(C:\Users\Joshua\Desktop\FolletoITM\final.toc
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <9> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 3.
 LaTeX Font Info:    Try loading font information for OMS+phv on input line 11.
@@ -1034,8 +1033,8 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[7 <E:/Trabajo/teletrabajo/mes_enero21/version_nueva_folleto/vecindad.jpg> <E:/
-Trabajo/teletrabajo/mes_enero21/version_nueva_folleto/vecindad_reducida.jpg>]
+[7 <C:/Users/Joshua/Desktop/FolletoITM/vecindad.jpg> <C:/Users/Joshua/Desktop/F
+olletoITM/vecindad_reducida.jpg>]
 \c@propiedad=\count144
 
 Underfull \hbox (badness 10000) in paragraph at lines 493--495
@@ -1134,7 +1133,7 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[11 <E:/Trabajo/teletrabajo/mes_enero21/version_nueva_folleto/xsin_pix.jpg>]
+[11 <C:/Users/Joshua/Desktop/FolletoITM/xsin_pix.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 682--683
 
  []
@@ -1202,8 +1201,7 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[13 <E:/Trabajo/teletrabajo/mes_enero21/version_nueva_folleto/Conservacion_sign
-o.jpg>]
+[13 <C:/Users/Joshua/Desktop/FolletoITM/Conservacion_signo.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 808--811
 
  []
@@ -1214,9 +1212,8 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[14 <E:/Trabajo/teletrabajo/mes_enero21/version_nueva_folleto/modulo1sobrex.jpg
-> <E:/Trabajo/teletrabajo/mes_enero21/version_nueva_folleto/funcion_signo_x.jpg
->]
+[14 <C:/Users/Joshua/Desktop/FolletoITM/modulo1sobrex.jpg> <C:/Users/Joshua/Des
+ktop/FolletoITM/funcion_signo_x.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 829--830
 
  []
@@ -1296,8 +1293,7 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[17 <E:/Trabajo/teletrabajo/mes_enero21/version_nueva_folleto/limite_fundamenta
-l.jpg>]
+[17 <C:/Users/Joshua/Desktop/FolletoITM/limite_fundamental.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 1032--1036
 
  []
@@ -1493,8 +1489,8 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[26 <E:/Trabajo/teletrabajo/mes_enero21/version_nueva_folleto/recta_seccante.jp
-g> <E:/Trabajo/teletrabajo/mes_enero21/version_nueva_folleto/pendiente.jpg>]
+[26 <C:/Users/Joshua/Desktop/FolletoITM/recta_seccante.jpg> <C:/Users/Joshua/De
+sktop/FolletoITM/pendiente.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 1507--1511
 
  []
@@ -1505,9 +1501,8 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[27 <E:/Trabajo/teletrabajo/mes_enero21/version_nueva_folleto/curva_con_secante
-.jpg> <E:/Trabajo/teletrabajo/mes_enero21/version_nueva_folleto/curvas_con_seca
-ntes.jpg>]
+[27 <C:/Users/Joshua/Desktop/FolletoITM/curva_con_secante.jpg> <C:/Users/Joshua
+/Desktop/FolletoITM/curvas_con_secantes.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 1556--1559
 
  []
@@ -1647,8 +1642,7 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[37 <E:/Trabajo/teletrabajo/mes_enero21/version_nueva_folleto/curva_diferencial
-.jpg>]
+[37 <C:/Users/Joshua/Desktop/FolletoITM/curva_diferencial.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 2085--2086
 
  []
@@ -1681,7 +1675,7 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[39 <E:/Trabajo/teletrabajo/mes_enero21/version_nueva_folleto/fermat1.jpg>]
+[39 <C:/Users/Joshua/Desktop/FolletoITM/fermat1.jpg>]
 <rolle1.jpg, id=818, 450.9648pt x 248.6088pt>
 File: rolle1.jpg Graphic file (type jpg)
  <use rolle1.jpg>
@@ -1709,8 +1703,8 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[40 <E:/Trabajo/teletrabajo/mes_enero21/version_nueva_folleto/rolle1.jpg> <E:/T
-rabajo/teletrabajo/mes_enero21/version_nueva_folleto/rolle2.jpg>]
+[40 <C:/Users/Joshua/Desktop/FolletoITM/rolle1.jpg> <C:/Users/Joshua/Desktop/Fo
+lletoITM/rolle2.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 2266--2267
 
  []
@@ -1721,7 +1715,7 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[41 <E:/Trabajo/teletrabajo/mes_enero21/version_nueva_folleto/lagrange1.jpg>]
+[41 <C:/Users/Joshua/Desktop/FolletoITM/lagrange1.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 2350--2352
 
  []
@@ -1774,8 +1768,8 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[45 <E:/Trabajo/teletrabajo/mes_enero21/version_nueva_folleto/caso1Criterio.jpg
-> <E:/Trabajo/teletrabajo/mes_enero21/version_nueva_folleto/caso2Criterio.jpg>]
+[45 <C:/Users/Joshua/Desktop/FolletoITM/caso1Criterio.jpg> <C:/Users/Joshua/Des
+ktop/FolletoITM/caso2Criterio.jpg>]
 
 Package Fancyhdr Warning: \headheight is too small (11.0pt): 
  Make it at least 12.0pt.
@@ -1911,8 +1905,8 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[58 <E:/Trabajo/teletrabajo/mes_enero21/version_nueva_folleto/integracion1.jpg>
-] <integracion2.jpg, id=1169, 441.3288pt x 324.7332pt>
+[58 <C:/Users/Joshua/Desktop/FolletoITM/integracion1.jpg>]
+<integracion2.jpg, id=1169, 441.3288pt x 324.7332pt>
 File: integracion2.jpg Graphic file (type jpg)
  <use integracion2.jpg>
 Package pdftex.def Info: integracion2.jpg used on input line 3409.
@@ -1930,8 +1924,8 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[59 <E:/Trabajo/teletrabajo/mes_enero21/version_nueva_folleto/integracion2.jpg>
- <E:/Trabajo/teletrabajo/mes_enero21/version_nueva_folleto/integracion3.jpg>]
+[59 <C:/Users/Joshua/Desktop/FolletoITM/integracion2.jpg> <C:/Users/Joshua/Desk
+top/FolletoITM/integracion3.jpg>]
 <integracion5.jpg, id=1184, 450.9648pt x 248.6088pt>
 File: integracion5.jpg Graphic file (type jpg)
  <use integracion5.jpg>
@@ -1963,16 +1957,15 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[60 <E:/Trabajo/teletrabajo/mes_enero21/version_nueva_folleto/integracion5.jpg>
-]
+[60 <C:/Users/Joshua/Desktop/FolletoITM/integracion5.jpg>]
 
 Package Fancyhdr Warning: \headheight is too small (11.0pt): 
  Make it at least 12.0pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[61 <E:/Trabajo/teletrabajo/mes_enero21/version_nueva_folleto/integracion4.jpg>
-] <integracion6.jpg, id=1215, 441.3288pt x 332.442pt>
+[61 <C:/Users/Joshua/Desktop/FolletoITM/integracion4.jpg>]
+<integracion6.jpg, id=1215, 441.3288pt x 332.442pt>
 File: integracion6.jpg Graphic file (type jpg)
  <use integracion6.jpg>
 Package pdftex.def Info: integracion6.jpg used on input line 3564.
@@ -1983,46 +1976,41 @@ Underfull \hbox (badness 10000) in paragraph at lines 3580--3582
  []
 
 
+Package Fancyhdr Warning: \headheight is too small (11.0pt): 
+ Make it at least 12.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[62 <C:/Users/Joshua/Desktop/FolletoITM/integracion6.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 3584--3586
 
  []
 
 
-Package Fancyhdr Warning: \headheight is too small (11.0pt): 
- Make it at least 12.0pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[62 <E:/Trabajo/teletrabajo/mes_enero21/version_nueva_folleto/integracion6.jpg>
-]
 Underfull \hbox (badness 10000) in paragraph at lines 3590--3592
 
  []
 
-<integracion7.jpg, id=1231, 416.757pt x 292.4526pt>
+
+Package Fancyhdr Warning: \headheight is too small (11.0pt): 
+ Make it at least 12.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[63] <integracion7.jpg, id=1247, 416.757pt x 292.4526pt>
 File: integracion7.jpg Graphic file (type jpg)
- <use integracion7.jpg>
+
+<use integracion7.jpg>
 Package pdftex.def Info: integracion7.jpg used on input line 3651.
 (pdftex.def)             Requested size: 142.26378pt x 99.82973pt.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
 Package Fancyhdr Warning: \headheight is too small (11.0pt): 
  Make it at least 12.0pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[63]
-
-Package Fancyhdr Warning: \headheight is too small (11.0pt): 
- Make it at least 12.0pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[64 <E:/Trabajo/teletrabajo/mes_enero21/version_nueva_folleto/integracion7.jpg>
-]
+[64 <C:/Users/Joshua/Desktop/FolletoITM/integracion7.jpg>]
 
 Package Fancyhdr Warning: \headheight is too small (11.0pt): 
  Make it at least 12.0pt.
@@ -2046,23 +2034,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 3874--3875
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3940--3941
-
- []
-
-
 Package Fancyhdr Warning: \headheight is too small (11.0pt): 
  Make it at least 12.0pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
 [67]
-Underfull \hbox (badness 10000) in paragraph at lines 3947--3949
+Underfull \hbox (badness 10000) in paragraph at lines 3942--3943
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4014--4015
+Underfull \hbox (badness 10000) in paragraph at lines 3949--3951
 
  []
 
@@ -2073,7 +2056,12 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [68]
-Underfull \hbox (badness 10000) in paragraph at lines 4017--4019
+Underfull \hbox (badness 10000) in paragraph at lines 4016--4017
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4019--4021
 
  []
 
@@ -2091,10 +2079,6 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [70]
-Underfull \hbox (badness 10000) in paragraph at lines 4160--4161
-
- []
-
 
 Package Fancyhdr Warning: \headheight is too small (11.0pt): 
  Make it at least 12.0pt.
@@ -2102,17 +2086,17 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [71]
-Underfull \hbox (badness 10000) in paragraph at lines 4189--4190
+Underfull \hbox (badness 10000) in paragraph at lines 4162--4163
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4203--4205
+Underfull \hbox (badness 10000) in paragraph at lines 4191--4192
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4207--4209
+Underfull \hbox (badness 10000) in paragraph at lines 4205--4206
 
  []
 
@@ -2123,6 +2107,10 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [72]
+Underfull \hbox (badness 10000) in paragraph at lines 4210--4211
+
+ []
+
 
 Package Fancyhdr Warning: \headheight is too small (11.0pt): 
  Make it at least 12.0pt.
@@ -2144,10 +2132,6 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [75]
-Underfull \hbox (badness 10000) in paragraph at lines 4385--4389
-
- []
-
 
 Package Fancyhdr Warning: \headheight is too small (11.0pt): 
  Make it at least 12.0pt.
@@ -2155,12 +2139,7 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [76]
-Underfull \hbox (badness 10000) in paragraph at lines 4450--4452
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4455--4458
+Underfull \hbox (badness 10000) in paragraph at lines 4388--4393
 
  []
 
@@ -2171,44 +2150,64 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [77]
+Underfull \hbox (badness 10000) in paragraph at lines 4454--4456
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4459--4462
+
+ []
+
 
 Package Fancyhdr Warning: \headheight is too small (11.0pt): 
  Make it at least 12.0pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[78] <funciones_1.jpg, id=1509, 608.2725pt x 395.97937pt>
+[78]
+
+Package Fancyhdr Warning: \headheight is too small (11.0pt): 
+ Make it at least 12.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[79]
+
+Package Fancyhdr Warning: \headheight is too small (11.0pt): 
+ Make it at least 12.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[80] <funciones_1.jpg, id=1523, 608.2725pt x 395.97937pt>
 File: funciones_1.jpg Graphic file (type jpg)
 
 <use funciones_1.jpg>
-Package pdftex.def Info: funciones_1.jpg used on input line 4556.
+Package pdftex.def Info: funciones_1.jpg used on input line 4560.
 (pdftex.def)             Requested size: 426.79134pt x 277.84227pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<funciones_2.jpg, id=1510, 608.2725pt x 395.97937pt>
+ <funciones_2.jpg, id=1524, 608.2725pt x 395.97937pt>
 File: funciones_2.jpg Graphic file (type jpg)
- <use funciones_2.jpg>
-Package pdftex.def Info: funciones_2.jpg used on input line 4564.
+
+<use funciones_2.jpg>
+Package pdftex.def Info: funciones_2.jpg used on input line 4568.
 (pdftex.def)             Requested size: 426.79134pt x 277.84227pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<funciones_3.jpg, id=1511, 606.76688pt x 135.50626pt>
+<funciones_3.jpg, id=1525, 606.76688pt x 135.50626pt>
 File: funciones_3.jpg Graphic file (type jpg)
  <use funciones_3.jpg>
-Package pdftex.def Info: funciones_3.jpg used on input line 4571.
+Package pdftex.def Info: funciones_3.jpg used on input line 4575.
 (pdftex.def)             Requested size: 426.79134pt x 95.3148pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<funciones_4.jpg, id=1512, 604.50844pt x 262.73157pt>
+<funciones_4.jpg, id=1526, 604.50844pt x 262.73157pt>
 File: funciones_4.jpg Graphic file (type jpg)
  <use funciones_4.jpg>
-Package pdftex.def Info: funciones_4.jpg used on input line 4580.
+Package pdftex.def Info: funciones_4.jpg used on input line 4584.
 (pdftex.def)             Requested size: 426.79134pt x 185.49036pt.
 
 
@@ -2220,12 +2219,9 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[79]
-(E:\Trabajo\teletrabajo\mes_enero21\version_nueva_folleto\Version_nueva.bbl
+[81 <C:/Users/Joshua/Desktop/FolletoITM/funciones_1.jpg>]
+No file final.bbl.
 
-LaTeX Warning: Empty `thebibliography' environment on input line 3.
-
-) 
 AED: lastpage setting LastPage
 
 Package Fancyhdr Warning: \headheight is too small (11.0pt): 
@@ -2233,34 +2229,26 @@ Package Fancyhdr Warning: \headheight is too small (11.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[80 <E:/Trabajo/teletrabajo/mes_enero21/version_nueva_folleto/funciones_1.jpg>]
+[82 <C:/Users/Joshua/Desktop/FolletoITM/funciones_2.jpg> <C:/Users/Joshua/Deskt
+op/FolletoITM/funciones_3.jpg> <C:/Users/Joshua/Desktop/FolletoITM/funciones_4.
+jpg>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 4619.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 4619.
+ (C:\Users\Joshua\Desktop\FolletoITM\final.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 4619.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 4619.
 
-Package Fancyhdr Warning: \headheight is too small (11.0pt): 
- Make it at least 12.0pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[81 <E:/Trabajo/teletrabajo/mes_enero21/version_nueva_folleto/funciones_2.jpg> 
-<E:/Trabajo/teletrabajo/mes_enero21/version_nueva_folleto/funciones_3.jpg> <E:/
-Trabajo/teletrabajo/mes_enero21/version_nueva_folleto/funciones_4.jpg>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 4610.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 4610.
-
-(E:\Trabajo\teletrabajo\mes_enero21\version_nueva_folleto\Version_nueva.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 4610.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 4610.
-
-Package rerunfilecheck Info: File `Version_nueva.out' has not changed.
-(rerunfilecheck)             Checksum: 0C5A5093CA935A01C7C4E49F0F54142A;4394.
+Package rerunfilecheck Info: File `final.out' has not changed.
+(rerunfilecheck)             Checksum: 39AEE934CD583643FC119A599A2583D2;4406.
  ) 
 Here is how much of TeX's memory you used:
- 12782 strings out of 494045
- 185363 string characters out of 3147578
- 318492 words of memory out of 3000000
+ 12780 strings out of 494045
+ 184706 string characters out of 3147578
+ 319496 words of memory out of 3000000
  14609 multiletter control sequences out of 15000+200000
  88810 words of font info for 339 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 43i,13n,50p,795b,715s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,13n,49p,787b,715s stack positions out of 5000i,500n,10000p,200000b,50000s
 {E:/Programas_instalados/Latex/fonts/enc/dvips/fontname/8r.enc}<E:/Programas_
 instalados/Latex/fonts/type1/public/amsfonts/cm/cmex10.pfb><E:/Programas_instal
 ados/Latex/fonts/type1/public/amsfonts/cm/cmmi10.pfb><E:/Programas_instalados/L
@@ -2278,9 +2266,9 @@ s/utmb8a.pfb><E:/Programas_instalados/Latex/fonts/type1/urw/times/utmbi8a.pfb><
 E:/Programas_instalados/Latex/fonts/type1/urw/times/utmr8a.pfb><E:/Programas_in
 stalados/Latex/fonts/type1/urw/times/utmr8a.pfb><E:/Programas_instalados/Latex/
 fonts/type1/urw/times/utmri8a.pfb>
-Output written on Version_nueva.pdf (81 pages, 1624755 bytes).
+Output written on final.pdf (82 pages, 1625269 bytes).
 PDF statistics:
- 1778 PDF objects out of 2073 (max. 8388607)
+ 1781 PDF objects out of 2073 (max. 8388607)
  898 named destinations out of 1000 (max. 500000)
  63546 words of extra memory for PDF output out of 74296 (max. 10000000)
 
